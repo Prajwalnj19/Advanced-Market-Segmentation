@@ -161,8 +161,7 @@ This project is open-source and available under the MIT License.
 
 GitHub Links
 
-Project Repository: [GitHub URL]
-
+Project Repository: https://github.com/Prajwalnj19/Advanced-Market-Segmentation/tree/main
 API Documentation: https://github.com/Prajwalnj19/Advanced-Market-Segmentation/new/main?filename=README.md
 
 
